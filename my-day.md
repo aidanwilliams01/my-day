@@ -1,4 +1,6 @@
 # My Day
+![Man waking up](https://cdn.w600.comps.canstockphoto.com/confused-man-waking-up-stock-photo_csp2880472.jpg)
+
 1. Woke up
 2. Got ready
 3. Started class
